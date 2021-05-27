@@ -1,5 +1,5 @@
 """
-calculator app using circle ci
+Calculator app
 """
 
 
